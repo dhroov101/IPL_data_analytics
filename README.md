@@ -28,7 +28,6 @@ The project includes the following files:
 
 IPL_Data_Scraping.ipynb: A Jupyter Notebook containing the Python code used to scrape the IPL data from ESPN Cricinfo using Pandas and BeautifulSoup. This notebook includes step-by-step instructions on data scraping and cleaning.
 
-IPL_Data.csv: A CSV file that stores the cleaned and processed IPL data. This file serves as the input for your Tableau visualizations.
 
 IPL_Visualizations.twbx: A Tableau packaged workbook file that contains your visualizations and the associated data source. This file can be opened in Tableau Desktop or Tableau Reader to explore and interact with the visualizations.
 
