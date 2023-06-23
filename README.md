@@ -1,4 +1,3 @@
-
 #IPL Data Visualization Project
 
 ##Project Overview
